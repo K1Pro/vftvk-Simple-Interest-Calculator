@@ -1,5 +1,5 @@
 body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+h1{color:grey;font-family:verdana;font-size: 16px;}
 .maindiv {background-color:white; color:black; width:650px; padding:20px; border-radius:25px; align:center; text-indent: 50px;}
 
 .result_number {
